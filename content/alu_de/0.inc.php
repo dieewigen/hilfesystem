@@ -1,0 +1,4 @@
+Dies ist die glorreiche Arena von Waldmond. Hier messen sich die Streiter des Landes und kämfen um Ruhm und Ehre. Tretet auch Ihr ein und versucht euer Glück. 
+Es wird auch nicht zu Eurem Nachteil sein, denn der Kampf geht nicht bis auf Leben und Tod. Es kämpfen immer zwei Gegner und der Gewinner des Kampfes erhält den ausgelobten Gewinn und steigt im Ansehen des Reiches, wobei auch der Verlierer Anerkennung für seinen Kampf ernten wird. Alle fünf Minuten findet eine Veranstaltung statt. Wer gegen wen kämpft hängt von den Erfahrungspunkten ab. Der Gewinnererhält zwei Ruhmespunkte und einen Kleinen Arenaheiltrank. Der Verlierer erhält einen Ruhmespunkt und einen Kleinen Arenaheiltrank. Wenn kein passender Gegener gefunden wird, erhälst du dennoch einen Ruhmespunkt.
+
+Den Ruhm kann man für den "Pfad des Ruhmes"-Quest (s. Quests) benutzen.

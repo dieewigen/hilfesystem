@@ -1,0 +1,1 @@
+Das Auktionshaus ermöglicht das Handeln mit anderen Bürgern. Es basiert auf dem altgedienten System der Versteigerung, auch ein Sofortkauf ist möglich.

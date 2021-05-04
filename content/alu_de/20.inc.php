@@ -1,0 +1,1 @@
+Diesen Stein kann man in der Hauptstadt im Orlandos Gemischtwaren-Laden für 1 Goldmünze, 99 Silber- und 90 Kupfermünzen kaufen, sollte man nicht das Glück haben und dem reisenden Mönch Alandar auf LandMasse2 begegnen. Benötigt werden fünf dieser Steine für den Turmausbau auf Stufe 7.

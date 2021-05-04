@@ -1,0 +1,1 @@
+Die Ablyon-Galaxie besteht aus tausenden von Sonnensystemen.

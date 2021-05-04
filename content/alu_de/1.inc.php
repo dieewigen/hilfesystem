@@ -1,0 +1,1 @@
+Diese trübe Flüssigkeit ist in der Lage 90 bis 100 Punkte Lebensenergie wiederherzustellen.

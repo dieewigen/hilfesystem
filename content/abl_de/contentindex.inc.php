@@ -1,0 +1,27 @@
+<?php 
+unset($indexdata);
+$index=0;
+$indexdata[$index][0]='FAQ';//titel
+$indexdata[$index][1]=0;//id
+$index++;
+$indexdata[$index][0]='<b>Die ersten Schritte</b>';//titel
+$indexdata[$index][1]=1;//id
+$index++;
+$indexdata[$index][0]='Creditbonus';//titel
+$indexdata[$index][1]=2;//id
+$index++;
+$indexdata[$index][0]='Hintergrundgeschichte';//titel
+$indexdata[$index][1]=4;//id
+$index++;
+$indexdata[$index][0]='Parteien';//titel
+$indexdata[$index][1]=5;//id
+$index++;
+$indexdata[$index][0]='Reisem&ouml;glichkeiten';//titel
+$indexdata[$index][1]=3;//id
+$index++;
+$indexdata[$index][0]='Rohstoffe';//titel
+$indexdata[$index][1]=6;//id
+$index++;
+$indexdata[$index][0]='Sonnensysteme';//titel
+$indexdata[$index][1]=7;//id
+?>

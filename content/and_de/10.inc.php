@@ -1,0 +1,1 @@
+In den Optionen kannst Du Dein Charakterbild wählen, den Sound aktivieren/deaktivieren, oder auch Deinen Account löschen.

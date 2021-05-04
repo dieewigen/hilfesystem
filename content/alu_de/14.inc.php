@@ -1,0 +1,1 @@
+Man erkennt ihn an seinem braunen kleinen Wagen. Er zieht seine Runden auf der zweiten Landmasse und verschwindet nach dem Kauf eines Sol-Altair-Steins wieder. Zusätzlich gibt er jedem Käufer einen Erfahrungspunktebonus von 250. Der Startpreis für den ersten Stein beginnt bei 20 Silbermünzen und steigt pro Kauf um eine Silbermünze.

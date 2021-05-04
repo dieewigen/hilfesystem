@@ -1,0 +1,10 @@
+Jeder Spieler kann in Efta seinen Heldenturm bei (X:1 Y:-2) errichten. 
+Dieser ist in Stufen eingeteilt, jede Stufe benötigt verschiedene Materialien, sobald man diese dort eingelagert hat, baut sich der Heldenturm automatisch aus. 
+Kosten:
+Zunächst benötigt man 50 Silber und einen Heldengrundstein, um überhaupt anfangen zu können. Den Grundstein findet man zufällig beim Töten der Monster. Danach benötigt man Ressourcen. 
+<table>
+<tr><td width="20%">Rohstoff/Level</td><td width="10%">1</td><td width="10%">2</td><td width="10%">3</td><td width="10%">4</td><td width="10%">5</td><td width="10%">6</td><td width="10%">7</td><td width="10%">8</td></tr><tr><td>Lindenholz</td><td>5</td><td>10</td><td>15</td><td>20</td><td>10</td><td>15</td><td>15</td><td>x</td></tr><tr><td>Sandstein</td><td>25</td><td>40</td><td>60</td><td>70</td><td>35</td><td>40</td><td>50</td><td>x</td></tr><tr><td>Getreide</td><td>30</td><td>60</td><td>90</td><td>100</td><td>50</td><td>30</td><td>30</td><td>x</td></tr><tr><td>Kupferbarren</td><td>-</td><td>-</td><td>-</td><td>10</td><td>10</td><td>20</td><td>30</td><td>x</td></tr><tr><td>Brot</td><td>-</td><td>-</td><td>-</td><td>-</td><td>8</td><td>10</td><td>20</td><td>x</td></tr><tr><td>Oller Fusel</td><td>-</td><td>-</td><td>-</td><td>-</td><td>5</td><td>10</td><td>20</td><td>x</td></tr><tr><td>Tyran-Selting-Stein</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>5</td><td>2</td><td>x</td></tr><tr><td>Sol-Altair-Stein</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>5</td><td>x</td></tr><tr><td>Aktionspunkte</td><td>15000</td><td>27500</td><td>x</td><td>55000</td><td>47500</td><td>61250</td><td>96250</td><td>x</td></tr></table>
+
+Nutzen:
+Man erhält pro Stufe einen Lagerplatz im Heldenturm, sowie <Stufe> * 100 Erfahrungspunkte. 
+Ist man also gerade am Ausbau von Stufe 5, so hat man 4 Lägerplätze, sowie 1000 Erfahrungspunkte (100 + 200 + 300 + 400) bereits bekommen.
